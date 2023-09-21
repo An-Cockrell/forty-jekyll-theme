@@ -1,6 +1,6 @@
 # site settings
-title: UVM An-Cockrell Lab
-subtitle: Center for Biomedical Digital Twins
+title: An-Cockrell Lab
+subtitle: UVM
 # email: youremailaddress@gmail.com
 description: Welcome to our lab's site, where we intend to share our work with you.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
