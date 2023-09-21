@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biomedical Digital Twins
+title: Our Team
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Biomedical Digital Twins</h1>
+			<h1>Our Team</h1>
 		</header>
 
 <!-- Content -->
