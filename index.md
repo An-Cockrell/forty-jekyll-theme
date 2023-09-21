@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the Center for Biomedical Digital Twins'
+landing-title: 'Center for Biomedical Digital Twins'
 description: null
 image: null
 author: null
