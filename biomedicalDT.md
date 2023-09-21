@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biomedical Digital Twins
+description: Augmenting Clinical Research with Cutting-Edge Technology
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
