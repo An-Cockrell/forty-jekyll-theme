@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: BETR - Bioelectronics for Tissue Repair
+description: a collaborative DARPA funded project
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
