@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Machine Learning on Electronic Health Record Data
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Clinically focused Machine Learning research
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
