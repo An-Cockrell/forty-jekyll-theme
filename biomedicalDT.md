@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biomedical Digital Twins
-description: Augmenting Clinical Research and Precision Medicine with Cutting-Edge Technology
+description: Augmenting Clinical Research and Precision Medicine
 image: null
 nav-menu: true
 ---
