@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Center for Biomedical Digital Twins'
 description: null
-image: null
+image: image.png
 author: null
 show_tile: false
 ---
