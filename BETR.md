@@ -7,9 +7,9 @@ nav-menu: true
 ---
 <h3>Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues.</h3>
 
-<span class="image main"><img src="assets/images/Smart Bandage Schematic.jpeg" alt="" /></span>
-<span class="image main"><img src="assets/images/WoundInstantiation.jpg" alt="" /></span>
-<span class="image main"><img src="assets/images/Natural_Ideal.png" alt="" /></span>
+<span class="image main"><img src="assets/images/Smart Bandage Schematic.jpeg" alt=""/></span>
+<span class="image main"><img src="assets/images/WoundInstantiation.jpg" alt=""/></span>
+<span class="image main"><img src="assets/images/Natural_Ideal.png" alt=""/></span>
 
 Crum, R.J., Johnson, S.A., Jiang, P., Jui, J.H., Zamora, R., Cortes, D., Kulkarni, M., Prabahar, A., 
 Bolin, J., Gann, E. and Elster, E., 2022. Transcriptomic, Proteomic, and Morphologic 

@@ -16,6 +16,6 @@ The primary difference between industrial digital twins and potential medical di
 
 In our lab, we use state-of-the-art machine learning techniques to discover the generative mechanisms behind biomedical phenomena from data alone.  We then computationally model the discovered/calibrated mechanisms to create a digital twin of the system in question.
 
-<span class="image main"><img src="assets/images/SegmentOVerview.jpeg" alt="" /></span>
+<span class="image main"><img src="assets/images/SegmentOVerview.jpeg" alt=""/></span>
 
     1. Grieves, M. W. (2019). “Virtually Intelligent Product Systems: Digital and Physical Twins,” in Complex Systems Engineering: Theory and Practice (Reston, VA: American Institute of Aeronautics and Astronautics), 175–200.
