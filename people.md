@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Team
+description: Meet the lab
 image: null
 nav-menu: true
 ---
