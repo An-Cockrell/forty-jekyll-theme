@@ -111,7 +111,7 @@ nav-menu: true
 				<header>
 					<h5>Researcher</h5>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I am a resident physician and researcher interested in utilizing technology to solve complex problems in science. My future career as a surgeon-scientist will focus on performing clinical and translational research with the aid of computational methods. In the past year, while working at the An-Cockrell lab, I have strongly deepened my knowledge of computer science, including learning a new programming language/paradigm for building computational agent-based models, performing data analyses on large and complex datasets, and training various machine learning algorithms. I am excited to continue honing these skills over the next year as I complete my dedicated research time in residency, and I know I will carry them into the future in my career as a surgeon-scientist. </p>
 				<ul class="actions">
 					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/1nmLYJmYR8aoEh/bibliography/public/" class="button">Bibliography</a></li>
 				</ul>
