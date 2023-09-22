@@ -29,6 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Gary An, MD</h3>
 				</header>
+				<header>
 					<h5>Professor of Surgery</h5>
 					<h5>Primary Investigator</h5>
 				</header>
