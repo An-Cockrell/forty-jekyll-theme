@@ -5,7 +5,7 @@ description: a collaborative DARPA funded project
 image: null
 nav-menu: true
 ---
-<h3>Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues.</h3>
+<h5>Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues.</h5>
 
 <span class="image main"><img src="assets/images/Smart Bandage Schematic.jpeg" alt=""/></span>
 <span class="image main"><img src="assets/images/WoundInstantiation.jpg" alt=""/></span>
