@@ -2,7 +2,7 @@
 layout: post
 title: BETR - Bioelectronics for Tissue Repair
 description: a collaborative DARPA funded project
-image: assets/images/pic11.jpg
+image: assets/images/Smart Bandage Schematic.jpeg
 nav-menu: true
 ---
 
