@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Our team</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>The An-Cockrell Lab was started in YYYY at the University of Chicago. In YYYY, the lab relocated to the University of Vermont.</p>
 	</div>
 </section>
 
@@ -28,6 +28,9 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Gary An, MD</h3>
+				</header>
+				<header>
+					<h5>Primary Investigator</h5>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
