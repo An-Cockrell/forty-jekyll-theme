@@ -1,6 +1,6 @@
 ---
 title: Machine Learning on Electronic Health Record Data
-layout: landing
+layout: post
 description: Clinically focused Machine Learning research
 image: assets/images/pic07.jpg
 nav-menu: true
