@@ -3,7 +3,7 @@ layout: allposts
 title: News
 landing-title: 'News'
 nav-menu: true
-description: null
+description: Updates from our team
 image: null
 author: null
 show_tile: true
