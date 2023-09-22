@@ -88,6 +88,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Damien Socia</h3>
 				</header>
+				<header>
+					<h5>Machine Learning Engineer</h5>
+				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -104,6 +107,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Sol Feuerwerker, MD</h3>
 				</header>
+				<header>
+					<h5>Researcher</h5>
+				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -119,6 +125,9 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Emmanuel Dodson</h3>
+				</header>
+				<header>
+					<h5>Intern</h5>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
