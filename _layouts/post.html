@@ -25,6 +25,7 @@
 		<header>
 			<h3>{{ page.description }}</h3>
 		</header>
+		{{ page.long_desc }}
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
 	</div>
