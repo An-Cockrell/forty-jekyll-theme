@@ -1,7 +1,7 @@
 ---
-title: Machine Learning on Electronic Health Record Data
+title: Machine Learning on EHR Data and at the bedside
 layout: post
-description: Clinically focused Machine Learning research
+description: Clinically focused Machine Learning research and solutions
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
