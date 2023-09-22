@@ -1,6 +1,6 @@
 # site settings
-title: An-Cockrell Lab
-subtitle: UVM
+title: UVM An-Cockrell Lab
+subtitle: Home
 # email: youremailaddress@gmail.com
 description: Welcome to our site. We're glad to have piqued your interest. Please check out our work below.
 baseurl: "/home" # the subpath of your site, e.g. /blog
