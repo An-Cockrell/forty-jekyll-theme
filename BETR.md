@@ -2,10 +2,14 @@
 layout: post
 title: BETR - Bioelectronics for Tissue Repair
 description: a collaborative DARPA funded project
-image: assets/images/Smart Bandage Schematic.jpeg
+image: null
 nav-menu: true
 ---
 Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues.
+
+<span class="image main"><img src="assets/images/Smart Bandage Schematic.jpeg" alt="" /></span>
+<span class="image main"><img src="assets/images/WoundInstantiation.jpg" alt="" /></span>
+<span class="image main"><img src="assets/images/Natural_Ideal.png" alt="" /></span>
 
 Crum, R.J., Johnson, S.A., Jiang, P., Jui, J.H., Zamora, R., Cortes, D., Kulkarni, M., Prabahar, A., 
 Bolin, J., Gann, E. and Elster, E., 2022. Transcriptomic, Proteomic, and Morphologic 
