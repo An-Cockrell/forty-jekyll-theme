@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Machine Learning on EHR Data and at the bedside
-description: Clinically focused Machine Learning research and solutions
+title: Machine Learning for Clinical and Translational Applications
+description: AI research and solutions 
 image: null
 nav-menu: true
 ---
