@@ -94,7 +94,7 @@ nav-menu: true
 				<header>
 					<h5>Machine Learning Engineer</h5>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem.</p>
+				<p>In my role as a Machine Learning Engineer at the University of Vermont's An-Cockrell Lab, I've been immersed in the world of biological modeling and machine learning research. During my time here, I've gained valuable experience in diverse aspects of this field. Utilizing computer vision to diagnose Trachoma, a topical eye disease, learning techniques to train ML models on sparse biomedical datasets, and developing agent bases models of biological systems. My career is dedicated to the innovative use of technology to solve complex issues in healthcare and research, and I look forward to advancing this mission in my future endeavors.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
