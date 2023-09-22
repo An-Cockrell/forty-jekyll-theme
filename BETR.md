@@ -11,4 +11,4 @@ Bolin, J., Gann, E. and Elster, E., 2022. Transcriptomic, Proteomic, and Morphol
 Characterization of Healing in Volumetric Muscle Loss. Tissue Engineering Part A, 28(23-24), 
 pp.941-957.
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/36039923/">Read here</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36039923/">Read publication here</a>
