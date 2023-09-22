@@ -29,7 +29,6 @@ nav-menu: true
 				<header class="major">
 					<h3>Gary An, MD</h3>
 				</header>
-				<header>
 					<h5>Professor of Surgery</h5>
 					<h5>Primary Investigator</h5>
 				</header>
@@ -50,7 +49,7 @@ nav-menu: true
 					<h3>Chase Cockrell, PhD</h3>
 				</header>
 				<header>
-					<h5>Assistant Professor, Surgical Research</h5>
+					<h5>Assistant Professor of Surgical Research</h5>
 					<h5>Primary Investigator</h5>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
@@ -62,12 +61,15 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/dale.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Dale Larie</h3>
+				</header>
+				<header>
+					<h5>Machine Learning Engineer</h5>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
