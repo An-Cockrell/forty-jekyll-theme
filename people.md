@@ -30,7 +30,7 @@ nav-menu: true
 					<h3>Gary An, MD</h3>
 				</header>
 				<header>
-					<h5>Primary Investigator</h5>
+					<h4>Primary Investigator</h4>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
