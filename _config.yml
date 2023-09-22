@@ -2,7 +2,7 @@
 title: An-Cockrell Lab
 subtitle: UVM
 # email: youremailaddress@gmail.com
-description: Welcome to our lab's site, we're glad to have piqued your interest. Please check out our work below.
+description: Welcome to our site. We're glad to have piqued your interest. Please check out our work below.
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
